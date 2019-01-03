@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">WorkManagerDemo</string>
-    <string name="single_task">Single Task</string>
-    <string name="periodic_task">Periodic Task</string>
-    <string name="chain_task">Chain Task</string>
-    <string name="start">Start</string>
-    <string name="constraints">Constraints &amp; Data</string>
-    <string name="with_data">With Data</string>
-</resources>
